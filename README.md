@@ -36,7 +36,7 @@ Each task has the following properties:
 1. **Clone the repository**:
 
     ```sh
-    git clone <repository-url>
+    git clone git@github.com:almorshidi0/TaskCLI.git
     cd TaskCLI
     ```
 
