@@ -37,7 +37,7 @@ Each task has the following properties:
 
     ```sh
     git clone <repository-url>
-    cd taskCLI
+    cd TaskCLI
     ```
 
 2. **Compile the Java files**:
